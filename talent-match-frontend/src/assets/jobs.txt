@@ -1,0 +1,2 @@
+{{"title": "Software Engineer", "description": "Develop and maintain software applications", "location": "New York", "salary_range": "$60,000 - $80,000", "experience_level": "Mid-level", "job_type": "Full-time"}
+{"title": "Data Scientist", "description": "Analyze data and build predictive models", "location": "San Francisco", "salary_range": "$90,000 - $120,000", "experience_level": "Senior-level", "job_type": "Full-time"}}
